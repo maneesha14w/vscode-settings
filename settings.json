@@ -1,0 +1,65 @@
+{
+  "workbench.sideBar.location": "right",
+  "editor.wordWrap": "on",
+  "editor.fontFamily": "'SF Mono','Hack', monospace",
+  "window.title": "${activeEditorMedium}${separator}${rootName}",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/node_modules": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/*.code-search": true,
+    "**/public": true
+  },
+  "editor.fontSize": 18,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "workbench.editor.showTabs": "single",
+  "files.autoSave": "onWindowChange",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "window.menuBarVisibility": "compact",
+  "zenMode.showTabs": "single",
+  "editor.guides.bracketPairs": "active",
+  "window.commandCenter": false,
+  "workbench.editor.enablePreview": false,
+  "workbench.layoutControl.enabled": false,
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "C:\\Program Files\\Firefox Developer Edition\\firefox.exe",
+  "liveServer.settings.CustomBrowser": "firefox",
+  "liveServer.settings.NoBrowser": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "none",
+  "scm.diffDecorations": "none",
+  "editor.rulers": [],
+  "zenMode.centerLayout": false,
+  "editor.scrollbar.verticalScrollbarSize": 0,
+  "terminal.integrated.fontSize": 16,
+  "js/ts.implicitProjectConfig.checkJs": true,
+  "javascript.validate.enable": false,
+  "workbench.statusBar.visible": false,
+  "terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font', monospace",
+  "workbench.activityBar.location": "hidden"
+}
+
+
+
+// WSL Settings
+
+{
+  "workbench.colorTheme": "Catppuccin Dark Fixed",
+  "workbench.iconTheme": "moxer-icons",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "breadcrumbs.enabled": false
+}
+
+
