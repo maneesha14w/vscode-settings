@@ -1,23 +1,8 @@
 {
   "workbench.sideBar.location": "right",
   "editor.wordWrap": "on",
-  "editor.fontFamily": "'SF Mono','Hack', monospace",
+  "editor.fontFamily": "'FiraCode Nerd Font','SF Mono','Hack', monospace",
   "window.title": "${activeEditorMedium}${separator}${rootName}",
-  "files.exclude": {
-    "**/.git": true,
-    "**/.svn": true,
-    "**/.hg": true,
-    "**/CVS": true,
-    "**/.DS_Store": true,
-    "**/Thumbs.db": true,
-    "**/node_modules": true
-  },
-  "search.exclude": {
-    "**/node_modules": true,
-    "**/bower_components": true,
-    "**/*.code-search": true,
-    "**/public": true
-  },
   "editor.fontSize": 18,
   "editor.scrollbar.horizontal": "hidden",
   "editor.scrollbar.vertical": "hidden",
@@ -45,21 +30,12 @@
   "terminal.integrated.fontSize": 16,
   "js/ts.implicitProjectConfig.checkJs": true,
   "javascript.validate.enable": false,
-  "workbench.statusBar.visible": false,
   "terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font', monospace",
+  "editor.linkedEditing": true,
+  "javascript.preferences.renameMatchingJsxTags": true,
+  "typescript.preferences.renameMatchingJsxTags": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "workbench.activityBar.location": "hidden"
 }
-
-
-
-   "_comment": "WSL Settings...",
-
-{
-  "workbench.colorTheme": "Catppuccin Dark Fixed",
-  "workbench.iconTheme": "moxer-icons",
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": true,
-  "breadcrumbs.enabled": false
-}
-
-
