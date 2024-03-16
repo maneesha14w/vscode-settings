@@ -58,20 +58,35 @@
     "command": "remote-wsl.explorer.openDistroInCurrentWindow"
   },
   {
-    "key": "ctrl+shift+u",
-    "command": "-workbench.action.output.toggleOutput",
-    "when": "workbench.panel.output.active"
-  },
-  {
-    "key": "ctrl+shift+u",
+    "key": "ctrl+alt+u",
     "command": "editor.action.transformToUppercase"
   },
   {
-    "key": "ctrl+shift+l",
+    "key": "ctrl+alt+l",
     "command": "editor.action.transformToLowercase"
   },
   {
     "key": "ctrl+alt+c",
     "command": "editor.action.transformToCamelcase"
+  },
+  {
+    "key": "ctrl+shift+alt+g",
+    "command": "git.sync"
+  },
+  {
+    "key": "ctrl+shift+a",
+    "command": "editor.emmet.action.balanceOut"
+  },
+  {
+    "key": "ctrl+alt+d",
+    "command": "editor.emmet.action.removeTag"
+  },
+  {
+    "key": "alt+t",
+    "command": "workbench.action.toggleLightDarkThemes"
+  },
+  {
+    "key": "ctrl+alt+s",
+    "command": "workbench.action.openApplicationSettingsJson"
   }
 ]
