@@ -35,8 +35,7 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "workbench.startupEditor": "none",
   "zenMode.centerLayout": false,
-  "workbench.preferredLightColorTheme": "minimalGreen",
+  "workbench.preferredLightColorTheme": "Solarized Light",
   "workbench.preferredDarkColorTheme": "Solarized Osaka",
-  "glassit.alpha": 220,
   "workbench.activityBar.location": "hidden"
 }
